@@ -1,6 +1,7 @@
 package leetcode657;
 
 public class CheckIfRobotReturnOrigin {
+	// Add and substruct methods
 	  public boolean judgeCircle(String moves) {
 	        int x = 0;
 	        
